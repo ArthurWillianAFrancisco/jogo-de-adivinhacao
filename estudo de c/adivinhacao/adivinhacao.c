@@ -127,6 +127,4 @@ int main() {
         printf("\nVocê perdeu! Tente novamente.\n");
     }
 
-
-
 }
