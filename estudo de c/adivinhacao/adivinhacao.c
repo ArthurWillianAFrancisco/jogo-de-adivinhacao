@@ -5,14 +5,14 @@
 int main() {
 
     // imprimindo cabecalho bonito do jogo
-    printf("\n\n");
-    printf("          P  /_\\  P                              \n");
-    printf("         /_\\_|_|_/_\\                            \n");
-    printf("     n_n | ||. .|| | n_n         Bem vindo ao     \n");
-    printf("     |_|_|nnnn nnnn|_|_|     Jogo de Adivinhação! \n");
-    printf("    |\" \"  |  |_|  |\"  \" |                     \n");
-    printf("    |_____| ' _ ' |_____|                         \n");
-    printf("          \\__|_|__/                              \n");
+      printf("\n\n");
+    printf("          P  /_\\  P                                         \n");
+    printf("         /_\\_|_|_/_\\                                       \n");
+    printf("     n_n | ||. .|| | n_n         Bem vindo ao                \n");
+    printf("     |_|_|nnnn nnnn|_|_|     Jogo de Adivinhação!            \n");
+    printf("    |\" \"  |  |_|  |\"  \" |                                \n");
+    printf("    |_____| ' _ ' |_____|                                    \n");
+    printf("          \\__|_|__/        Por:ArtWill\u00A9                \n");
     printf("\n\n");
 
     int segundos = time(0);
